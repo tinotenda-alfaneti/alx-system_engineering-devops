@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 iata | tail -n 1
+cat iata | head -3 | tail -1
