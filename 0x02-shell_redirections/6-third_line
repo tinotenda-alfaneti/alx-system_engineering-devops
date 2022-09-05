@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "Latin phrase attributed" iata
+head -n 3 iata | tail -n 1
